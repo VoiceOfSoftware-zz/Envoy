@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Envoy Table" max_length="40" name="x_15629_envoy_table" type="collection">
+        <element label="day" max_length="40" name="day" type="glide_date"/>
+        <element label="energy" max_length="40" name="energy" type="integer"/>
+    </element>
+</database>
